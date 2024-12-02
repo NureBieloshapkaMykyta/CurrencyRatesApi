@@ -1,0 +1,6 @@
+@TectCurrencyRates_HostAddress = http://localhost:5031
+
+GET {{TectCurrencyRates_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
